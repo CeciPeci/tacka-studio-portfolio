@@ -23,6 +23,43 @@ My work includes:
 
 Illustration is a central part of my practice and a defining element of my visual language. My work is inspired by folk art, pop culture, children's logic, and nature, with a strong focus on color and expressive forms.
 
+---
+
+## Featured Project: Advertisement Redesign for Better 50+ Readability
+
+### Before
+
+![Original massage course advertisement](projects/massage-course-redesign/MASSAGE.jpg)
+
+### After
+
+![TACKA STUDIO massage course advertisement redesign](projects/massage-course-redesign/MASSEREN.jpg)
+
+### Project Overview
+
+This self-initiated redesign explores how an existing advertisement could be made clearer, more accessible, and easier to read for adults aged 50 and over.
+
+I found the original advertisement in the Dutch publication *Senioren Krant* and selected it independently as an example with potential for improved visual communication.
+
+For my redesign, I refined the color palette, increased contrast, and adjusted the typography, spacing, and visual hierarchy. The goal was to make the information easier to scan and read while preserving the advertisement's original content and identity.
+
+Adults aged 50 and over are a diverse and active audience, yet their needs are still too often overlooked in visual communication. Good design for this audience should feel contemporary and engaging while offering clarity, legibility, and a comfortable reading experience.
+
+### Design Focus
+
+- Stronger text and background contrast
+- Clearer and more legible typography
+- Improved information hierarchy
+- More consistent spacing
+- Easier scanning of dates and key information
+- A contemporary presentation designed with 50+ readers in mind
+
+### Disclaimer
+
+This is an independent, unsolicited conceptual redesign created for portfolio purposes. I was not commissioned by, and am not affiliated with, *Senioren Krant*, Be You Energy, or the original advertiser. All original brand names, logos, photographs, and written content belong to their respective owners.
+
+---
+
 ## TACKA STUDIO
 
 Distinctive visual communication with character, clarity, and a human touch.
