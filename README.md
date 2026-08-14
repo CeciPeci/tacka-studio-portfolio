@@ -60,6 +60,37 @@ This is an independent, unsolicited conceptual redesign created for portfolio pu
 
 ---
 
+## SIRE Campaign Redesign for Better 50+ Readability
+
+### Before
+
+![Original SIRE campaign posters](projects/sire-campaign-redesign/before.jpg)
+
+### After
+
+![TACKA STUDIO SIRE campaign redesign](projects/sire-campaign-redesign/after.jpg)
+
+### Project Overview
+
+I found this existing SIRE campaign online and independently chose to redesign the posters as a personal portfolio exercise. My goal was to make the message clearer and easier to read for adults aged 50 and over.
+
+I improved the contrast, typographic hierarchy, alignment, and distribution of the text. Color overlays and outlined letterforms help the message remain visible across the different photographs. The original images and campaign message are preserved, while the redesigned layout is calmer, more consistent, and more accessible.
+
+### Design Focus
+
+- Improved text-to-image contrast
+- Clearer typographic hierarchy
+- More consistent alignment and spacing
+- Better legibility across varied photographic backgrounds
+- A calmer visual rhythm for comfortable reading
+- Preservation of the original campaign message and imagery
+
+### Disclaimer
+
+This is an independent, unsolicited conceptual redesign created solely for portfolio and educational purposes. I was not commissioned by, and am not affiliated with, SIRE or the original campaign creators. All original brand names, logos, photographs, and written content belong to their respective owners.
+
+---
+
 ## TACKA STUDIO
 
 Distinctive visual communication with character, clarity, and a human touch.
