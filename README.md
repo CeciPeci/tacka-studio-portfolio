@@ -91,6 +91,37 @@ This is an independent, unsolicited conceptual redesign created solely for portf
 
 ---
 
+## Dental Advertisement Redesign for Better 50+ Readability
+
+### Before
+
+![Original Van der Linden dental advertisement](projects/dental-advertisement-redesign/before.jpg)
+
+### After
+
+![TACKA STUDIO dental advertisement redesign](projects/dental-advertisement-redesign/after.jpg)
+
+### Project Overview
+
+I found this existing advertisement online and independently chose to redesign it as a personal portfolio exercise. My goal was to improve readability and accessibility for adults aged 50 and over.
+
+I adjusted the typography, contrast, spacing, alignment, and information hierarchy. In the redesigned version, larger and more consistent type, clearer content grouping, and a simplified layout make the information easier to scan and more comfortable to read while preserving the original message.
+
+### Design Focus
+
+- Larger and more consistent typography
+- Stronger contrast between text and background
+- Clearer information hierarchy
+- Improved spacing and alignment
+- Simplified bullet points and content grouping
+- A calmer, more accessible reading experience for the 50+ audience
+
+### Disclaimer
+
+This is an independent, unsolicited conceptual redesign created solely for portfolio and educational purposes. I was not commissioned by, and am not affiliated with, Van der Linden Tandtechniek or the original advertisement creators. All original brand names, photographs, logos, and written content belong to their respective owners.
+
+---
+
 ## TACKA STUDIO
 
 Distinctive visual communication with character, clarity, and a human touch.
